@@ -1,0 +1,13 @@
+<resources>
+    <color name="primary">#1B6E5A</color>
+    <color name="primary_dark">#114A3D</color>
+    <color name="accent">#E0A458</color>
+    <color name="amount_in">#1B6E5A</color>
+    <color name="amount_out">#C0392B</color>
+    <color name="muted">#7A7A7A</color>
+    <color name="surface">#FFFFFF</color>
+    <color name="on_primary">#FFFFFF</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="ic_launcher_background">#1B6E5A</color>
+</resources>

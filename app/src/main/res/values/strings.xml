@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">دفتري — ملاحظات وديون</string>
+
+    <!-- Bottom nav -->
+    <string name="nav_notes">الملاحظات</string>
+    <string name="nav_debts">الديون</string>
+    <string name="nav_settings">الإعدادات</string>
+
+    <!-- Notes -->
+    <string name="notes_title">الملاحظات</string>
+    <string name="empty_text">لا توجد عناصر بعد — اضغط + للإضافة</string>
+    <string name="add">إضافة</string>
+    <string name="hint_title">العنوان</string>
+    <string name="hint_body">المحتوى</string>
+    <string name="save">حفظ</string>
+    <string name="cancel">إلغاء</string>
+    <string name="delete">حذف</string>
+
+    <!-- Debts -->
+    <string name="debts_title">الديون</string>
+    <string name="dir_owed_to_me">مَدين لي</string>
+    <string name="dir_i_owe">أنا مَدين</string>
+    <string name="hint_person">اسم الشخص</string>
+    <string name="hint_phone">رقم الهاتف</string>
+    <string name="hint_amount">القيمة</string>
+    <string name="hint_description">الوصف (اختياري)</string>
+    <string name="hint_due_date">تاريخ الاستحقاق:</string>
+    <string name="pick_date">اختر التاريخ</string>
+    <string name="mark_paid">تم السداد</string>
+    <string name="send_reminder_now">إرسال تذكير SMS الآن</string>
+    <string name="send_reminder">تذكير SMS</string>
+    <string name="sms_template_debt_reminder">مرحباً {name}، تذكير بقيمة مستحقة قدرها {amount} ريال. الوصف: {desc}. شكراً.</string>
+
+    <!-- Notifications -->
+    <string name="channel_debts_name">تذكير بالديون</string>
+    <string name="channel_debts_desc">إشعارات تذكير بمواعيد استحقاق الديون</string>
+    <string name="reminder_title">تذكير دين: %1$s</string>
+    <string name="reminder_body">القيمة %1$s — %2$s — %3$s</string>
+
+    <!-- Settings -->
+    <string name="settings_desc">تطبيق لإدارة الملاحظات الشخصية وتتبع الديون، مع تنبيهات فورية عند حلول موعد الدين وإمكانية إرسال رسائل SMS تذكيرية.</string>
+</resources>
